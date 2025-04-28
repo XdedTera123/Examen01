@@ -1,0 +1,19 @@
+#decorado {
+    background-color: rgb(208, 255, 239);
+}
+
+input, label, textarea, button, div {
+    margin-bottom: 10px; /* espacio entre campos */
+}
+
+.Titulo{
+    text-align: left;
+}
+
+button {
+    color: white;
+    background-color: rgb(0, 140, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;;
+}
